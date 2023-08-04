@@ -9,8 +9,6 @@ https://makefiletutorial.com/
 
 https://gl.developpez.com/tutoriel/outil/makefile/
 
-http://perso.univ-lyon1.fr/jean-claude.iehl/Public/educ/Makefile.html
-
 ### Typecasting
 https://www.tutorialspoint.com/cprogramming/c_type_casting.htm
 
@@ -27,15 +25,7 @@ https://craftofcoding.wordpress.com/2015/12/07/memory-in-c-the-stack-the-heap-an
 
 https://www.gnu.org/software/libc/manual/html_node/Memory-Allocation-and-C.html
 
-https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/16595-lallocation-dynamique
-
-https://rperrot.developpez.com/articles/c/allocationC/
-
-https://waytolearnx.com/2019/03/difference-entre-allocation-dynamique-et-allocation-statique.html
-
 https://buzut.net/cours/computer-science/differents-types-de-memoires
-
-https://www.it-swarm-fr.com/fr/c/difference-entre-lallocation-de-memoire-statique-et-lallocation-de-memoire-dynamique/940988866/
 
 http://www.cs.ru.nl/~erikpoll/sws1/slides/hic4.pdf
 
@@ -56,8 +46,6 @@ https://www.geeksforgeeks.org/what-are-static-functions-in-c/
 https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/c_functions.html
 
 ### Data types
-https://web.maths.unsw.edu.au/~lafaye/CCM/c/ctype.htm
-
 https://www.arm.linux.org.uk/docs/faqs/signedchar.php
 
 ### Errors
@@ -78,9 +66,5 @@ https://www.geeksforgeeks.org/data-structures/linked-list/
 ### Others
 https://www.exploit-db.com/docs/english/28477-linux-integer-overflow-and-underflow.pdf
 
-https://www.lri.fr/~hivert/COURS/CFA-L3/02-Recursivite.pdf
-
 ## Books
 The C programming Language. -Brian Kernighan et Dennis Ritchie.
-
-Apprenez à programmer en C. -Mathieu Nebra.
